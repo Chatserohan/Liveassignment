@@ -1,0 +1,3 @@
+name= 'prashik'
+    age = 22
+    salary  = 100000
